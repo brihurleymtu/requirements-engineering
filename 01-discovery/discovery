@@ -1,10 +1,81 @@
 # Week 1 — Initial Discovery 
+
 ## 1. Facts 
+Record at least 5 things that we know from the scenario. 
+1.
+2.
+3.
+4.
+5.
+
 ## 2. Assumptions 
+Record at least 4 things you are currently assuming but have not been told.
+1.
+2.
+3.
+4.
+
 ## 3. Unknowns 
+Record at least 4 important things we do not yet know.
+1.
+2.
+3.
+4.
+
 ## 4. Stakeholders 
+Identify at least 5 stakeholders. 
+1.
+2.
+3.
+4.
+5.
+6.
+
 ## 5. Goals 
+Identify 3 goals for the proposed system.
+1.
+2.
+3.
+
 ## 6. Scope 
+List 3–4 things that appear likely to be part of the problem. Out of scope / not yet established.
+1.
+2.
+3.
+4.
+
+List 2–3 things that we cannot currently assume are required. 
+1.
+2.
+3.
+
 ## 7. Candidate Requirements 
+Based on what you have discovered, write: 
+4 functional requirements.
+1.
+2.
+3.
+4.
+
+2 non-functional requirements .
+1.
+2.
+
 ## 8. Requirement Surgery 
+Consider these vague requirements: 
+R1: The system should be easy to use. 
+R2: The system should be secure. 
+
+For each one: 
+1. Explain why it is weak.  
+2. Rewrite it to make it more specific or testable.  
+
+R1:
+1.
+2.
+
+R2:
+1.
+2.
+
 ## 9. Reflection 
