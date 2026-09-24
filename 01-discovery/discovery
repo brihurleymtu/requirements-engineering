@@ -43,8 +43,8 @@ Identify at least 5 stakeholders.
 ## 5. Goals 
 Identify 3 goals for the proposed system.
 1. The system should help the college to see which equipment is currently available and unavailable.
-2. The system should help the college to 
-3.
+2. The system should help the college to advise students on how long they may borrow the equipment for.
+3. The system should help the college to send out reminders on bookings.
 
 ## 6. Scope 
 List 3–4 things that appear likely to be part of the problem. Out of scope / not yet established.
@@ -61,10 +61,10 @@ List 2–3 things that we cannot currently assume are required.
 ## 7. Candidate Requirements 
 Based on what you have discovered, write: 
 4 functional requirements.
-1.
-2.
-3.
-4.
+1. The system shall
+2. The system shall
+3. The system shall
+4. The system shall
 
 2 non-functional requirements .
 1.
