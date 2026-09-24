@@ -36,11 +36,14 @@ What might this person be concerned about?
 Any equipment being lost of used without authorisation.
 
 3. Unknowns
+Who is allowed to book specialist equipment?
+What happens when equipment is returned late?
+What information needs to be recorded about a booking?
 
-4. Information sources
+5. Information sources
 
-5. Elicitation questions
+6. Elicitation questions
 
-6. Interview notes
+7. Interview notes
 
-7. Candidate requirement
+8. Candidate requirement
