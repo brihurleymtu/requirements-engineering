@@ -1,3 +1,33 @@
 Requirements Engineering Project
 Bri Hurley T00270929
 For my Requirements Engineering project I have chosen scenario A - Community Volunteer & Event Coordination System.
+
+A community organisation runs local events and activities throughout the year.
+Volunteers currently sign up using email, phone calls, spreadsheets and paper forms.
+The organisation is considering a software system to help coordinate volunteers and
+events.
+
+Current problems include:
+• organisers spend a lot of time matching volunteers to activities
+• volunteers are sometimes unsure which activities need help
+• organisers do not always know who is available
+• changes and cancellations can be difficult to communicate
+• some activities require particular skills or experience
+• organisers need to know who is attending each activity
+• volunteer information is currently stored in several places
+• accessibility and privacy need to be considered
+
+As the Requirements Engineer, investigate questions such as:
+• Who can create or manage an event?
+• Who can register as a volunteer?
+• What information should volunteers provide?
+• How are volunteers matched to activities?
+• Are particular skills or qualifications required for some activities?
+• How far in advance can someone register?
+• What happens when a volunteer cancels?
+• What happens if an event changes or is cancelled?
+• Can organisers contact all volunteers, selected volunteers, or both?
+• What information should different users be able to see?
+• Should volunteers be able to see who else is attending?
+• What privacy and security requirements might apply?
+• What accessibility requirements should be considered? 
