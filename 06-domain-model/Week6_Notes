@@ -1,1 +1,10 @@
+## Task A1
+1. Which requirement tells us that Booking is an important concept?
+FR01 - A student can make more than 1 equipment booking.
 
+2. Which requirement identifies two attributes of Booking?
+FR03 - Each booking records a start date and end date.
+
+3.Which requirements indicate relationships invloving Staff Members?
+FR04 - Staff members review booking requests.
+FR05 - Staff members manage equipment availability.
