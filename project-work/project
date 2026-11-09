@@ -7,32 +7,44 @@ Volunteers currently sign up using email, phone calls, spreadsheets and paper fo
 The organisation is considering a software system to help coordinate volunteers and
 events.
  
-## Facts: 
---Organisers spend a lot of time matching volunteers to activities.
---Volunteers are sometimes unsure which activities need help.
---Organisers do not always know who is available.
---Changes and cancellations can be difficult to communicate
---Some activities require particular skills or experience
---Organisers need to know who is attending each activity
---Volunteer information is currently stored in several places
---Accessibility and privacy need to be considered
+## 1. Facts: 
+1. Organisers spend a lot of time matching volunteers to activities.
+2. Volunteers are sometimes unsure which activities need help.
+3. Organisers do not always know who is available.
+4. Changes and cancellations can be difficult to communicate
+5. Some activities require particular skills or experience
+6. Organisers need to know who is attending each activity
+7. Volunteer information is currently stored in several places
+8. Accessibility and privacy need to be considered
 
-## Assumptions:
---The organisation can create and manage the events.
---Anyone can register as a voluteer
+## 2. Assumptions:
+1. The organisation can create and manage the events.
+2. Anyone can register as a voluteer
 
-## Unknowns:
---What information should volunteers provide?
---How are volunteers matched to activities?
---Are particular skills or qualifications required for some activities?
---How far in advance can someone register?
---What happens when a volunteer cancels?
---What happens if an event changes or is cancelled?
---Can organisers contact all volunteers, selected volunteers, or both?
---What information should different users be able to see?
---Should volunteers be able to see who else is attending?
---What privacy and security requirements might apply?
---What accessibility requirements should be considered? 
+## 3. Unknowns:
+1. What information should volunteers provide?
+2. How are volunteers matched to activities?
+3. Are particular skills or qualifications required for some activities?
+4. How far in advance can someone register?
+5. What happens when a volunteer cancels?
+6. What happens if an event changes or is cancelled?
+7. Can organisers contact all volunteers, selected volunteers, or both?
+8. What information should different users be able to see?
+9. Should volunteers be able to see who else is attending?
+10. What privacy and security requirements might apply?
+11. What accessibility requirements should be considered? 
+
+## 4. Stakeholders 
+1. Organisation.
+2. Volunteers.
+3. Events manager.
+4. Requirements engineer.
+
+## 5. Goals 
+1. The system should help the organisation to see who has volunteered.
+2. The system should help the volunteers to see what events are happening.
+3. The system should help the events manager to find suitable volunteers.
+
 
 22/10/26 - Added project report to github and made progress on it.
-09/11/26 - Updating layout and information.
+09/11/26 - Updating layout and information. Adding stakeholders and goals.
